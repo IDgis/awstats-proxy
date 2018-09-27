@@ -1,0 +1,6 @@
+# Eclipse
+.project
+
+# IntelliJ
+.idea/
+awstats-proxy.iml
