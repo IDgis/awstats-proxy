@@ -19,4 +19,4 @@ services:
       - awstats_result:/usr/lib/cgi-bin
 ```
 
-De awstats resultaten zijn dan bijvoorbeeld op te vragen via awstats.idgis.nl/cgi-bin/awstats.pl?config=www.idgis.nl
+De awstats resultaten zijn dan bijvoorbeeld op te vragen via ``awstats.idgis.nl/cgi-bin/awstats.pl?config=www.idgis.nl``
